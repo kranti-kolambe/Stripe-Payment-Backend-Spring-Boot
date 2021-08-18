@@ -6,4 +6,4 @@ Backend
 4. Start your Backend (mention Database username and password in application.properties file)
 5. Run as Spring Boot App
 6. you can test API's using Postman or Swagger
-7. Also Check Front end project with this at url: 
+7. Also Check Front end project with this at url: https://github.com/kranti-kolambe/StripeFrontEndAngular.git
