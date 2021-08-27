@@ -37,7 +37,7 @@ public class User implements Serializable {
     private String password;
     
 	@JoinColumn(name="sid")
-	@OneToOne(cascade=CascadeType.PERSIST)  
+	@OneToOne(cascade=CascadeType.ALL)  
 	private Subscription subscription;
 	public User() {
 		super();
